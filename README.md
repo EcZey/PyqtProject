@@ -1,5 +1,6 @@
 # DESKTOP APP
 
+## Calculator
 Bu proje, basit matematiksel işlemleri yapabilen bir hesap makinesidir. Hesap makinesi, toplama, çıkarma, çarpma, bölme gibi işlemleri yapabilir.
 
 ## Projeyi çalıştırabilmek için
