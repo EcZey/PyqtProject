@@ -32,7 +32,7 @@ class CalculatorWindow(QWidget):
                 grid.addWidget(btn, *position)
  
         self.setLayout(grid)
-        self.setWindowTitle('Codeloop - Calculator')
+        self.setWindowTitle('Calculator')
  
     def append_number(self, b):
         self.display.setText(self.display.text() + b)
